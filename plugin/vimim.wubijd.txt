@@ -1539,6 +1539,7 @@ ajfg 草坪
 ajfh 鹊起
 ajfm 草垛
 ajfn 草场
+ajfp 划过
 ajfp 莫过
 ajft 蒙昧无知
 ajfu 莳
@@ -67330,6 +67331,7 @@ wgtx 登第
 wgty 全篇
 wgu 侠
 wgua 合并
+wgud 优惠券
 wgud 债券
 wguf 倒闭 便装 盒装
 wgug 全美
@@ -73713,6 +73715,7 @@ yhqk 店名
 yhqn 誢
 yhqt 施虐狂
 yhqy 谈虎色变
+yhrv 店招
 yhta 店长
 yhtf 讣告
 yhtj 让利
@@ -76602,6 +76605,3 @@ zzzy ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ ㄋ ㄌ ㄍ ㄎ ㄏ ㄐ ㄑ ㄒ ㄓ ㄔ ㄕ ㄖ ㄗ
 zzem ?_? ^_^ :) :( _ 囧
 zzfh ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?
 
-yhrv 店招
-ajfp 划过
-wgud 优惠券

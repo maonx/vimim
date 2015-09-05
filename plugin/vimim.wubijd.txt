@@ -7662,6 +7662,7 @@ ddlk 大加 大驾 厣
 ddll 大田
 ddlo 黡
 ddlp 大连
+ddlt 大图
 ddlt 大力
 ddlw 大办
 ddm 硕
@@ -28206,6 +28207,7 @@ jjtj 日利
 jjtk 日程
 jjtm 日币
 jjtt 暖暖和和
+jjtx 日系
 jjud 日头
 jjue 日前
 jjug 日美
@@ -40044,6 +40046,7 @@ ojdh 爆破
 ojec 爆胎
 ojeg 焨
 ojf 焊
+ojff 爆款
 ojfg 粴
 ojfh 焊
 ojga 爆开

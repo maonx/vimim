@@ -31197,6 +31197,7 @@ kmb 郧
 kmbb 嗣子
 kmbg 顺风耳
 kmbh 郧 鄖
+kmbw 吊坠
 kmca 哈贝马斯
 kmcy 吺
 kmd 喘
@@ -44537,6 +44538,7 @@ qfxg 针线
 qfxk 针织
 qfxq 镇纸
 qfyj 针剂
+qfyh 镇店
 qfyk 金鼓齐鸣
 qfyn 象声词
 qfyw 多元论
@@ -51385,7 +51387,7 @@ rtqf 手铐
 rtqg 手印
 rtqi 插销
 rtqk 托名
-rtql 手镯
+rtql 手镯 手链
 rtqn 手包
 rtqs 托钵
 rtqt 托儿
@@ -63812,7 +63814,7 @@ uxjf 背时
 uxjj 兹日
 uxjk 疿
 uxjv 递归
-uxjy 背影 背景
+uxjy 背景 背影 
 uxkg 单引号
 uxkh 北路
 uxkq 弟兄
